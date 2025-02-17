@@ -176,6 +176,9 @@ sudo goaccess /var/log/nginx/access.log -o rapport-stellaire.html --log-format=C
 
 Cela générera une interface holographique interactive avec des statistiques de communication détaillées.
 
+![image](https://github.com/user-attachments/assets/1aacb4ea-ab13-4399-bc4c-2f5fe67379c9)
+
+
 ## 🏆 CONFIRMATION DE MISSION ACCOMPLIE
 
 ✅ **Configuration du module de communication et génération des archives**
